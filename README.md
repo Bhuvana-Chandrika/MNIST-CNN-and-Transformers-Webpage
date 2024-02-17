@@ -1,5 +1,5 @@
 # MNIST-CNN-and-Transformers-Webpage
-This repository showcases a collaborative project undertaken as part of the Optimisation Course in the Master's program for Business Analytics at the McCombs School of Business, University of Texas at Austin.
+This repository showcases a collaborative project undertaken as part of the Optimisation Course in the Master's program for Business Analytics at the McCombs School of Business, University of Texas at Austin.  
 **Collaborators:** Meenakshi Sundaram, Saiyam Shah, Eeshana Hamed
 
 
