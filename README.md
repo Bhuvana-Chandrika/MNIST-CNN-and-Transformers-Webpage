@@ -1,4 +1,7 @@
 # MNIST-CNN-and-Transformers-Webpage
+This repository showcases a collaborative project undertaken as part of the Optimisation Course in the Master's program for Business Analytics at the McCombs School of Business, University of Texas at Austin.
+**Collaborators:** Meenakshi Sundaram, Saiyam Shah, Eeshana Hamed
+
 
 **1. Overview**
 This project aims to develop and compare the performance of two different neural network architectures, Convolutional Neural Network (CNN) and Transformer Neural Network, on the MNIST dataset and showcase the results obtained in webpage using Anvil. 
