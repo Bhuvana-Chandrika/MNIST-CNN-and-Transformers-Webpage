@@ -7,13 +7,14 @@ This repository showcases a collaborative project undertaken as part of the Opti
 This project aims to develop and compare the performance of two different neural network architectures, Convolutional Neural Network (CNN) and Transformer Neural Network, on the MNIST dataset and showcase the results obtained in webpage using Anvil. 
 
 **2. Neural Network Architectures**
-Built a model using CNN and Trnasformers.
+Built a model using CNN and Transformers.  
+
 *Convolutional Neural Network (CNN):*
 Explored multiple convolutional layers with varying filter sizes and numbers of filters.
 Used max-pooling layers for downsampling.
 Employed dense layers with dropout regularization.
 **Achieved 99+ accuracy**
-
+  
 *Transformer Neural Network:*
 Implemented a Transformer architecture with Multi-Head Self-Attention (MHSA) layers.
 Experimented with different hidden, key/query, and value dimensions.
